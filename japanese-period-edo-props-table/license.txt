@@ -1,0 +1,11 @@
+Model Information:
+* title:	japanese-period-edo-props-table
+* source:	https://sketchfab.com/3d-models/japanese-period-edo-props-table-38e0c4ede6344436ad63afa06140112f
+* author:	Alison.Chang (https://sketchfab.com/Alison.Chang)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "japanese-period-edo-props-table" (https://sketchfab.com/3d-models/japanese-period-edo-props-table-38e0c4ede6344436ad63afa06140112f) by Alison.Chang (https://sketchfab.com/Alison.Chang) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
