@@ -1,0 +1,11 @@
+Model Information:
+* title:	Swiss roll
+* source:	https://sketchfab.com/3d-models/swiss-roll-540729039b4b411db04572e342df51f5
+* author:	charalamboscharalambous8 (https://sketchfab.com/charalamboscharalambous8)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Swiss roll" (https://sketchfab.com/3d-models/swiss-roll-540729039b4b411db04572e342df51f5) by charalamboscharalambous8 (https://sketchfab.com/charalamboscharalambous8) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
