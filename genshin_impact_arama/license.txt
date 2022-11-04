@@ -1,0 +1,11 @@
+Model Information:
+* title:	Genshin Impact Arama
+* source:	https://sketchfab.com/3d-models/genshin-impact-arama-cb46071a28c4452292e696b92c0208e4
+* author:	celene_08 (https://sketchfab.com/celene_08)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Genshin Impact Arama" (https://sketchfab.com/3d-models/genshin-impact-arama-cb46071a28c4452292e696b92c0208e4) by celene_08 (https://sketchfab.com/celene_08) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
