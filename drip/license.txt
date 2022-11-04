@@ -1,0 +1,11 @@
+Model Information:
+* title:	DRIP
+* source:	https://sketchfab.com/3d-models/drip-8c4ee016c3aa4986b04d84df4a4cf843
+* author:	J6HD (https://sketchfab.com/J6vxplayz)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "DRIP" (https://sketchfab.com/3d-models/drip-8c4ee016c3aa4986b04d84df4a4cf843) by J6HD (https://sketchfab.com/J6vxplayz) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
