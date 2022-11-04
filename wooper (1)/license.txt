@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wooper
+* source:	https://sketchfab.com/3d-models/wooper-2cff7d965cc24d86998065ff7c6fc7b3
+* author:	nguyenlouis32 (https://sketchfab.com/nguyenlouis32)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wooper" (https://sketchfab.com/3d-models/wooper-2cff7d965cc24d86998065ff7c6fc7b3) by nguyenlouis32 (https://sketchfab.com/nguyenlouis32) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
