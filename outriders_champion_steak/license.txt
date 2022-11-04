@@ -1,0 +1,11 @@
+Model Information:
+* title:	Outrider's Champion Steak!
+* source:	https://sketchfab.com/3d-models/outriders-champion-steak-235ff4e594174a42acad7375bb986040
+* author:	François Le Normand (https://sketchfab.com/FrancoisLN)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Outrider's Champion Steak!" (https://sketchfab.com/3d-models/outriders-champion-steak-235ff4e594174a42acad7375bb986040) by François Le Normand (https://sketchfab.com/FrancoisLN) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
