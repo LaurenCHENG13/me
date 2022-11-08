@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cat Stone
+* source:	https://sketchfab.com/3d-models/cat-stone-09f58b16b2fc40f39a744e2100fe0bbb
+* author:	nicolas_solo (https://sketchfab.com/nicolas_solo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cat Stone" (https://sketchfab.com/3d-models/cat-stone-09f58b16b2fc40f39a744e2100fe0bbb) by nicolas_solo (https://sketchfab.com/nicolas_solo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

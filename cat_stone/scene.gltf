@@ -1,0 +1,473 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 240,
+      "max": [
+        136.78428649902344,
+        17.008464813232422,
+        101.40050506591797
+      ],
+      "min": [
+        -127.93538665771484,
+        -22.40049171447754,
+        -129.89013671875
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2880,
+      "componentType": 5126,
+      "count": 240,
+      "max": [
+        0.9950277805328369,
+        0.934410810470581,
+        0.9916990399360657
+      ],
+      "min": [
+        -0.9984548687934875,
+        -0.9389376044273376,
+        -0.9968165159225464
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 240,
+      "max": [
+        0.9056251645088196,
+        0.9998612999916077,
+        0.9206684827804565,
+        1.0
+      ],
+      "min": [
+        -0.9229180812835693,
+        -0.6344922780990601,
+        -0.9262434244155884,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 240,
+      "max": [
+        0.9926238059997559,
+        0.898887574672699
+      ],
+      "min": [
+        0.9238461256027222,
+        0.00839446485042572
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 1170,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 5760,
+      "componentType": 5126,
+      "count": 646,
+      "max": [
+        157.13270568847656,
+        31.64108657836914,
+        123.05628967285156
+      ],
+      "min": [
+        68.33110046386719,
+        -80.15216064453125,
+        4.441147804260254
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 13512,
+      "componentType": 5126,
+      "count": 646,
+      "max": [
+        0.9695145487785339,
+        0.9990600943565369,
+        0.9999434947967529
+      ],
+      "min": [
+        -0.9617491364479065,
+        -0.9981447458267212,
+        -0.9997708797454834
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 3840,
+      "componentType": 5126,
+      "count": 646,
+      "max": [
+        0.9961525201797485,
+        0.9997811913490295,
+        0.9774344563484192,
+        1.0
+      ],
+      "min": [
+        -0.9986051917076111,
+        -0.9983389377593994,
+        -0.9816170334815979,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1920,
+      "componentType": 5126,
+      "count": 646,
+      "max": [
+        0.908009946346283,
+        0.8257331848144531
+      ],
+      "min": [
+        0.6676889657974243,
+        0.013876423239707947
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 4680,
+      "componentType": 5125,
+      "count": 3144,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 21264,
+      "componentType": 5126,
+      "count": 74,
+      "max": [
+        127.25083923339844,
+        184.61648559570313,
+        95.20423889160156
+      ],
+      "min": [
+        -128.06773376464844,
+        -165.5343780517578,
+        -128.27081298828125
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 22152,
+      "componentType": 5126,
+      "count": 74,
+      "max": [
+        0.9682398438453674,
+        0.8386145830154419,
+        0.9999305009841919
+      ],
+      "min": [
+        -0.9477267265319824,
+        -0.9980184435844421,
+        -0.9954212307929993
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 14176,
+      "componentType": 5126,
+      "count": 74,
+      "max": [
+        0.9904413223266602,
+        0.9568479061126709,
+        0.949643611907959,
+        1.0
+      ],
+      "min": [
+        -0.9991803169250488,
+        -0.9470598697662354,
+        -0.9918719530105591,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 7088,
+      "componentType": 5126,
+      "count": 74,
+      "max": [
+        0.840257465839386,
+        0.9870748519897461
+      ],
+      "min": [
+        0.009564429521560669,
+        0.030355360358953476
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 17256,
+      "componentType": 5125,
+      "count": 330,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "nicolas_solo (https://sketchfab.com/nicolas_solo)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/cat-stone-09f58b16b2fc40f39a744e2100fe0bbb",
+      "title": "Cat Stone"
+    },
+    "generator": "Sketchfab-12.58.1",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 18576,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 7680,
+      "byteOffset": 18576,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 23040,
+      "byteOffset": 26256,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 15360,
+      "byteOffset": 49296,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 64656,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Material.001_baseColor.png"
+    },
+    {
+      "uri": "textures/Material.001_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Material.001_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Material.001",
+      "normalTexture": {
+        "index": 2
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "rope_low_Material.001_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "shimenawa_low_Material.001_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "stone_low_Material.001_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TANGENT": 12,
+            "TEXCOORD_0": 13
+          },
+          "indices": 14,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "8b8b704dda0a404b9308ca27cd65c3c4.fbx"
+    },
+    {
+      "children": [
+        3,
+        5,
+        7
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "rope_low"
+    },
+    {
+      "mesh": 0,
+      "name": "rope_low_Material.001_0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "name": "shimenawa_low"
+    },
+    {
+      "mesh": 1,
+      "name": "shimenawa_low_Material.001_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "name": "stone_low"
+    },
+    {
+      "mesh": 2,
+      "name": "stone_low_Material.001_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
